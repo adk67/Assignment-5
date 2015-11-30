@@ -1,0 +1,6 @@
+12345: Herb Weaselman:false
+98765:Marge Margificent:false
+44444:Ingmar Inglenook:false
+88888:Hector Heroman:false
+56789:Agnes Angular:false
+54321:Alexander Kim:false
